@@ -15,16 +15,6 @@ This project implements an automated brain tumor detection and segmentation syst
 - Computer Vision Toolbox
 - Medical Segment Anything Toolbox
 
-## 📁 Structure
-
-```bash
-📦 BrainTumorDetection/
-├── tumorDetector_fixed.mat         # Trained YOLOv2 detector
-├── yolo_testTbl.mat                # Test image dataset with labels
-├── BrainTumorDetection.mlapp       # MATLAB App Designer file
-├── README.md                       # Project readme
-└── LICENSE                         # License (if applicable)
-```
 ## 🚀 Usage
 Clone the repo or download .mlapp and .mat files.
 
