@@ -33,6 +33,11 @@ Note: Detection requires tumorDetector_fixed.mat to be present in the same folde
 [canomercik](https://github.com/canomercik)
 [UmutSemihSoyer](https://github.com/UmutSemihSoyer)
 
+## Screenshots
+![Screenshot 2025-05-17 135938](https://github.com/user-attachments/assets/bb302ee1-f1a9-489e-baf9-013b2bb00df1)
+
+![Screenshot 2025-05-17 140123](https://github.com/user-attachments/assets/adfaca70-d8fb-4821-b45f-2ba68b6f2723)
+
 
 
 
